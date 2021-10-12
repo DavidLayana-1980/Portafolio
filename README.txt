@@ -1,1 +1,1 @@
-A simple and minimalist web page created as a portfolio of the projects in which I was working and collaborating. 
+A simple and minimalist web page created as a portfolio of the projects in which I was working and collaborating. z< 
