@@ -1,1 +1,1 @@
-A simple and minimalist web page created as a portfolio of the projects in which I am working and collaborating.
+# Custom Studio - Agency Website
